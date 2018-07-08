@@ -1,0 +1,9 @@
+.board {
+    display: flex;
+    width: 300px;
+    flex-wrap: wrap;
+}
+
+.board, .wonTitle, .btn-primary {
+    margin-top: 20px;
+}
